@@ -4,4 +4,4 @@ It's really a simple and straightfroward game againd two users.
 
 To compile and run, use the blackjackapplication.java and it will display to GUI to play the game.
 
-![alt text](http://url/to/blackjack.jpg)
+![alt text](https://github.com/rk8055/BlackJack-application-game/blob/[branch]/image.jpg?raw=true)
